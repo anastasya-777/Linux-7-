@@ -146,4 +146,4 @@
 -p 'pattern': Указывает команде split разбивать файл при появлении указанного шаблона.
 
 
-[Ссылка]()
+[Ссылка](https://docs.google.com/spreadsheets/d/19nfhKUDf_mNeTHxY3NVTCJ4FfwEf29eFVn3OwQxiUX4/edit?usp=sharing)
